@@ -8,10 +8,10 @@
 # Axios : Small documention read easily.
 
 # TanStack: 
-(i) https://tanstack.com/query/latest/docs/framework/react/overview. 
-(ii). https://tanstack.com/query/latest/docs/framework/react/quick-start
-(iii). https://tanstack.com/query/latest/docs/framework/react/quick-start
-(iv). https://tanstack.com/query/latest/docs/framework/react/guides/queries
-(v). https://tanstack.com/query/latest/docs/framework/react/guides/query-keys
-(vi). https://tanstack.com/query/latest/docs/framework/react/guides/query-functions
-(vii). https://tanstack.com/query/latest/docs/framework/react/guides/query-options
+(i) https://tanstack.com/query/latest/docs/framework/react/overview.  <br>
+(ii). https://tanstack.com/query/latest/docs/framework/react/quick-start.   <br>
+(iii). https://tanstack.com/query/latest/docs/framework/react/quick-start.   <br>
+(iv). https://tanstack.com/query/latest/docs/framework/react/guides/queries.   <br>
+(v). https://tanstack.com/query/latest/docs/framework/react/guides/query-keys.   <br>
+(vi). https://tanstack.com/query/latest/docs/framework/react/guides/query-functions.   <br>
+(vii). https://tanstack.com/query/latest/docs/framework/react/guides/query-options.   <br>
