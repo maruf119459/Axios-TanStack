@@ -29,6 +29,9 @@ function example() {
 
 :smile: :+1: :rocket:
 
+<span style="background-color: yellow;">This text is highlighted</span>
+
+
 
 
 
