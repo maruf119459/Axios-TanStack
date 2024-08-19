@@ -15,6 +15,7 @@
 (v). https://tanstack.com/query/latest/docs/framework/react/guides/query-keys.   <br>
 (vi). https://tanstack.com/query/latest/docs/framework/react/guides/query-functions.   <br>
 (vii). https://tanstack.com/query/latest/docs/framework/react/guides/query-options.   <be>
-\'This text will not be italicized\'
+[^1]: This is the footnote content.
+
   
 
