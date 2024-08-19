@@ -29,9 +29,9 @@ function example() {
 
 :smile: :+1: :rocket:
 
-<span style="background-color: white;">This text is highlighted</span>
+<span style="background-color: white;">1 This text is highlighted</span>
 
-<mark>This text is highlighted</mark>
+<mark>This text is highlighted</mark>  
 <u>This text is underlined</u>
 
 
