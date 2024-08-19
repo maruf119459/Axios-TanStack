@@ -32,7 +32,9 @@ function example() {
 <span style="background-color: white;">1 This text is highlighted</span>
 
 <mark>This text is highlighted</mark>  
-<u>This text is underlined</u>
+<u>This text is underlined</u>  
+<span style="text-decoration: underline;">This text is underlined</span>
+
 
 
 
