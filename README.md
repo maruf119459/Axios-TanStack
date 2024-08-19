@@ -18,7 +18,12 @@
 ```javascript
 function example() {
     console.log("This is JavaScript code.");
-}
+}  
+
+```html
+<div>
+    <h1>This is an HTML heading</h1>
+</div>
 
 
   
